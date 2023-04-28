@@ -6,16 +6,18 @@ header {
 
 body {
     margin: 0;
-    height: 100vh;
+    height: 100%;
 }
 
 footer {
     background-color: red;
     padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: calc(100% - 20px);
+    bottom: 10px;
+    
+    
 }
+
 img {
     width: 200
 }
+    
